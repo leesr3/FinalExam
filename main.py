@@ -1,6 +1,6 @@
 """
 
-File: SoroMon.py
+File: main.py
 ----------------
 과제 final : SoroMon
 이름: 이소리
