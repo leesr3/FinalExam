@@ -1,3 +1,5 @@
+# 네이버 블로그를 crawling 하여 원하는 내용을 추출하고 분석하는 코드.
+
 import re
 import requests
 import urllib.request
